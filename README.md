@@ -1,4 +1,4 @@
-# Behaviour-Model-Data
+# Behavior-Model-Data
 
 This repository contains the empirical and simulation trajectories for the Circle Antipode experiments, used to benchmark the performance of various pedestrian dynamics models. The data is organized into folders corresponding to each model, with subfolders for experimental runs.
 
